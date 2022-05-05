@@ -18,6 +18,7 @@ public class HorneroEjemploGit {
         System.out.println("Samuel Hornero");
         System.out.println("Version2");
         System.out.println("Janyna invadiendo a Samuel Hornero");
+        System.out.println("Editado por Pablo Gaño");
     }
     
 }
