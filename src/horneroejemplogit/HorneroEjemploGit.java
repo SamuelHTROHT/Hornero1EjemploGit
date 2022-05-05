@@ -16,7 +16,7 @@ public class HorneroEjemploGit {
      */
     public static void main(String[] args) {
         System.out.println("Samuel Hornero");
-        System.out.println("Version1");
+        System.out.println("Version2");
     }
     
 }
